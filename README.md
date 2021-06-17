@@ -1,2 +1,5 @@
 # hello-world
-When you are a beginner at coding 
+Newbie to coding 
+that's it 
+nothing much
+...
